@@ -1,0 +1,1 @@
+# StyleGAN2-ADA_Goldfish-Training
